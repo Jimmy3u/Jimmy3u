@@ -1,6 +1,6 @@
 # System.out.println("Olá 👋") 
 <div style=" align-items: center; justify-content: center;">
-<img style="width:250px; float:right; margin:5%;" src="https://2.bp.blogspot.com/-Zf1F2idEvOg/W1vg1xixAhI/AAAAAAABNr0/UUtfTIxjrVMjKWI_kFoMz2jTt5BXZVdQACLcBGAs/s800/animal_chara_computer_kuma.png">
+<img align="right" style="width:250px; margin:5%;" src="https://2.bp.blogspot.com/-Zf1F2idEvOg/W1vg1xixAhI/AAAAAAABNr0/UUtfTIxjrVMjKWI_kFoMz2jTt5BXZVdQACLcBGAs/s800/animal_chara_computer_kuma.png">
 
 <p style="padding-top:5%;">
 
